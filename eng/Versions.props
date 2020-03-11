@@ -57,9 +57,10 @@
     <MicrosoftNETCoreAppRuntimewinx64PackageVersion>5.0.0-preview.3.20167.12</MicrosoftNETCoreAppRuntimewinx64PackageVersion>
     <MicrosoftNETCoreAppInternalPackageVersion>5.0.0-preview.3.20167.12</MicrosoftNETCoreAppInternalPackageVersion>
     <NETStandardLibraryRefPackageVersion>2.1.0-preview.3.20160.8</NETStandardLibraryRefPackageVersion>
-    <!-- Packages from dotnet/corefx -->
+    <!-- Packages from dotnet/runtime -->
     <MicrosoftBclAsyncInterfacesPackageVersion>1.0.0</MicrosoftBclAsyncInterfacesPackageVersion>
     <MicrosoftWin32RegistryPackageVersion>5.0.0-preview.3.20167.12</MicrosoftWin32RegistryPackageVersion>
+    <MicrosoftExtensionsPrimitivesPackageVersion>5.0.0-preview.3-runtime.20167.12</MicrosoftExtensionsPrimitivesPackageVersion>
     <SystemComponentModelAnnotationsPackageVersion>5.0.0-preview.3.20167.12</SystemComponentModelAnnotationsPackageVersion>
     <SystemDiagnosticsDiagnosticSourcePackageVersion>5.0.0-preview.3.20167.12</SystemDiagnosticsDiagnosticSourcePackageVersion>
     <SystemDiagnosticsEventLogPackageVersion>5.0.0-preview.3.20167.12</SystemDiagnosticsEventLogPackageVersion>
